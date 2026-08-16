@@ -75,7 +75,8 @@ Microsoft Graph PowerShell SDK
 ## 🧪 Microsoft Cloud Labs
 
 
-* Building 🔧
+```Building... 🔧
+```
 ---
 
 ## 🎓 Certifications
