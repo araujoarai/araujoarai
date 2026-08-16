@@ -76,7 +76,7 @@ Microsoft Graph PowerShell SDK
 
 
 ```text
-Building... 🔧
+Building...
 ```
 ---
 
